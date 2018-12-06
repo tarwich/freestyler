@@ -1,0 +1,7 @@
+# Application
+node_modules
+
+# Metadata
+.idea
+.vscode
+.DS_Store
